@@ -21,12 +21,12 @@
 
 ### <img src="assets/info-circle-solid.svg" width="30px"> 个人信息<img align="right" src="assets/photo.jpg" width="100px"/>
 
- - 24 岁 | 工作经验：2年 | 求职意向：Java 研发工程师
+ - 24 岁 | 工作经验：2年 | 职级：滴滴出行 D6 | 求职意向：后端研发工程师
 
 ### <img src="assets/graduation-cap-solid.svg" width="30px"> **教育荣誉**
 
 - 2017.9 ~ 2021.7 | 本科 | 南阳理工学院 | 计算机软件学院 | Java 技术与应用
-- D5 晋升 D6 | 学习标兵 | 三好学生 | 二等奖学金 | 英语 4 级 
+- 学习标兵 | 三好学生 | 二等奖学金 | 英语 4 级 
 
 ### <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
@@ -45,12 +45,12 @@
 >
 > 技术相关：额度数据模型设计、数据变更准确性保障、稳定性监控搭建、幂等、切面、分布式锁
 >
-> 分布式事务、分库分表、流程编排、SQL 死锁排查、内存飙升排查、数据迁移、多线程
+> 分布式事务、分库分表、流程编排、SQL 死锁排查、内存飙升排查、数据迁移、多线程、DDD
 >
 > KPI 达成：核心项目交付 100%、常规项目交付 100%、线上 P6+ 事故数为 0
 
 - 2021.07 ~ 2021.10 | 滴滴出行 - 橙心优选 - 仓配履约中台 | Gis - 地理信息系统 |  Java 开发
-- Spring Boot | Mybatis-Plus | MySQL | Redis | DDMQ | R 树 | 本地缓存 | Sentinel | 任务跑批
+- Spring Boot | Mybatis-Plus | MySQL | Redis | DDMQ | R 树 | 本地缓存 | Sentinel | Canal
 
 > 电商核心 Gis 地理信息系统，QPS 最高达 3w，上到商城售卖品类售卖，下到订单履约管理
 >
